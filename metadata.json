@@ -1,0 +1,5 @@
+{
+  "name": "Roblox Knife Forge",
+  "description": "Generate low-poly, Roblox-style 3D knife models from text prompts using Gemini for imagery and Hugging Face for 3D mesh generation.",
+  "requestFramePermissions": []
+}
